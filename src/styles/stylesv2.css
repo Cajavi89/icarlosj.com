@@ -322,10 +322,14 @@ section.skills{
 
 
 
-/* footer{
-  position: absolute;
-  bottom: 44px;
-} */
+footer{
+  margin-bottom: 44px;
+  background-color:var(--third-color) ;
+  text-align: center;
+  font-size: 1.2rem;
+  color: white;
+  padding: 0.4rem;
+}
 
 
 
